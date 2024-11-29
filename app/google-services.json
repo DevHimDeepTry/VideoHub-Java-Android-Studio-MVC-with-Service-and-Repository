@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "412539509503",
+    "project_id": "videohubapp-440907",
+    "storage_bucket": "videohubapp-440907.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412539509503:android:8be8a2a862ed2733f44aca",
+        "android_client_info": {
+          "package_name": "com.example.videohub"
+        }
+      },
+      "oauth_client": [
+		
+	],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7IrsUaf5jgOvaIo8t5d2QIjVTs7294s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

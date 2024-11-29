@@ -1,0 +1,17 @@
+<!-- rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Đặt màu nền cho Button -->
+    <solid android:color="#EA4359" />
+
+    <!-- Đặt bo góc cho Button -->
+    <corners android:topLeftRadius="16dp" />
+    <corners android:topRightRadius="26dp" />
+    <corners android:bottomLeftRadius="36dp" />
+    <corners android:bottomRightRadius="6dp" />
+
+    <!-- Tạo viền cho Button (tùy chọn) -->
+    <stroke
+        android:width="2dp"
+        android:color="#EA4359" />
+</shape>

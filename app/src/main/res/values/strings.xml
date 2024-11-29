@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">VideoHub</string>
+    <string name="videohubTextSlogan">VideoHub</string>
+    <string name="make_every_second_count_slogan">Make every second count</string>
+    <string name="enter_password_text">Enter password</string>
+    <string name="enter_account_name_text">Enter account name</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Or</string>
+    <string name="sign_up_and_start_your_journey_with_us_text">Sign Up and Start Your Journey with Us!!</string>
+    <string name="forgot_password_text">Forgot password</string>
+    <string name="ng_nh_p_b_ng_google_text">Đăng nhập bằng Google</string>
+    <string name="login_with_gmail_text">Login with Gmail</string>
+    <string name="login_with_facebook_text">Login with Facebook</string>
+    <string name="imgdecore_text">imgDecore</string>
+    <string name="textview">TextView</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_go_back_to_login_text">Already have an account? Go back to Login!</string>
+    <string name="profile_image_text">profile_image</string>
+    <string name="owner_avatar">Owner Avatar</string>
+    <string name="heart_icon">heart_icon</string>
+    <string name="comment">comment</string>
+    <string name="create">Create</string>
+    <string name="logout">Logout</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="title_video">Title video</string>
+    <string name="profile">Profile</string>
+    <string name="comments">Comments</string>
+    <string name="profileofuser">ProfileOfUser</string>
+    <string name="_0_b_nh_lu_n">0 Bình Luận</string>
+    <string name="enter_image_url">Enter_image_url</string>
+    <string name="upload_image">Upload Image</string>
+</resources>

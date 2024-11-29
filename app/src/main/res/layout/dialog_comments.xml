@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- TextView hiển thị số lượng bình luận -->
+    <TextView
+        android:id="@+id/commentCounts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_0_b_nh_lu_n"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <!-- RecyclerView hiển thị danh sách bình luận -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/commentsRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="19dp"/>
+
+    <!-- EditText nhập bình luận -->
+    <EditText
+        android:id="@+id/commentInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext_border"
+        android:gravity="top|start"
+        android:hint="Nhập bình luận..."
+        android:inputType="textMultiLine"
+        android:maxLines="4"
+        android:padding="8dp"
+        android:layout_margin="20dp"
+        />
+
+    <!-- Nút gửi bình luận -->
+    <ImageView
+        android:id="@+id/sendButton"
+        android:layout_width="39dp"
+        android:layout_height="37dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="-59.5dp"
+        android:layout_marginEnd="70dp"
+        android:contentDescription="@string/heart_icon"
+        android:src="@drawable/img_12"/>
+
+    <ImageView
+        android:id="@+id/iconButton"
+        android:layout_width="39dp"
+        android:layout_height="37dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="-37.5dp"
+        android:layout_marginEnd="28dp"
+        android:contentDescription="@string/heart_icon"
+        android:src="@drawable/img_13"/>
+</LinearLayout>

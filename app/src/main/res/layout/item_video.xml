@@ -1,0 +1,170 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:adjustViewBounds="true" />
+
+    </LinearLayout>
+
+
+
+    <ImageButton
+        android:id="@+id/playPauseButton"
+        android:layout_width="79dp"
+        android:layout_height="57dp"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:contentDescription="Play/Pause Button"
+        android:src="@drawable/ic_play"
+        tools:ignore="HardcodedText" />
+
+    <SeekBar
+        android:id="@+id/videoSeekBar"
+        android:layout_width="395dp"
+        android:layout_height="34dp"
+        android:layout_gravity="bottom|center"
+        android:max="100"
+        android:progress="0" />
+    <ImageView
+        android:id="@+id/ownerAvatar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/owner_video_circular"
+        android:contentDescription="@string/owner_avatar"
+        android:scaleType="center"
+        android:clipToOutline="true"
+        />
+
+    <ImageView
+        android:id="@+id/heartIcon"
+        android:layout_width="39dp"
+        android:layout_height="37dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="418dp"
+        android:layout_marginEnd="25dp"
+        android:contentDescription="@string/heart_icon"
+        android:src="@drawable/ic_heart_non_focus" />
+
+    <TextView
+        android:id="@+id/heartCount"
+        android:layout_width="37dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="451dp"
+        android:layout_marginEnd="26dp"
+        android:gravity="center"
+        android:text="1.234"
+        android:textColor="#FFFFFF"
+        android:textSize="9sp"
+        tools:ignore="SmallSp" />
+
+    <ImageView
+        android:id="@+id/commentIcon"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="463dp"
+        android:layout_marginEnd="26.5dp"
+        android:contentDescription="@string/comment"
+        android:src="@drawable/img_7" />
+
+    <TextView
+        android:id="@+id/commentCount"
+        android:layout_width="37dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="494dp"
+        android:layout_marginEnd="26dp"
+        android:text="18"
+        android:textColor="#FFFFFF"
+        android:textSize="9sp"
+        android:gravity="center"
+        tools:ignore="SmallSp" />
+
+    <ImageView
+        android:id="@+id/wishListIcon"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="510dp"
+        android:layout_marginEnd="26.5dp"
+        android:contentDescription="@string/comment"
+        android:src="@drawable/img_8" />
+    <TextView
+        android:id="@+id/wishListCount"
+        android:layout_width="37dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="542dp"
+        android:layout_marginEnd="26dp"
+        android:text="25"
+        android:textColor="#FFFFFF"
+        android:textSize="9sp"
+        android:gravity="center"
+        tools:ignore="SmallSp" />
+    <ImageView
+        android:id="@+id/shareIcon"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="552dp"
+        android:layout_marginEnd="26.5dp"
+        android:contentDescription="@string/comment"
+        android:src="@drawable/img_9" />
+    <TextView
+        android:id="@+id/shareCount"
+        android:layout_width="37dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="578dp"
+        android:layout_marginEnd="26dp"
+        android:text="23"
+        android:textColor="#FFFFFF"
+        android:textSize="9sp"
+        android:gravity="center"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/ownerName"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="560dp"
+        android:gravity="left"
+        android:text="@string/owner_name"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        tools:ignore="RtlHardcoded,SmallSp" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="595dp"
+        android:gravity="left"
+        android:text="@string/title_video"
+        android:textColor="#FFFFFF"
+        android:textSize="13sp"
+        tools:ignore="RtlHardcoded,SmallSp" />
+
+</FrameLayout>
