@@ -44,7 +44,7 @@ Người dùng có thể tải video lên, xem video và tương tác với vide
 
 1. Clone repository về máy tính của bạn:
     ```bash
-    git clone https://github.com/yourusername/VideoHub.git
+    git clone [https://github.com/DevHimDeepTry/VideoHub.git](https://github.com/DevHimDeepTry/VideoHub-Java-Android-Studio-MVC-with-Service-and-Repository.git)
     ```
 
 2. Cài đặt các phụ thuộc:
