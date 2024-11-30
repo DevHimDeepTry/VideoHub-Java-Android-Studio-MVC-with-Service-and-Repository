@@ -6,31 +6,31 @@ VideoHub là một ứng dụng video cho phép người dùng đăng nhập, đ
 
 ### 1. Thông Báo Chưa Kết Nối Internet
 Khi ứng dụng không thể kết nối với Internet, người dùng sẽ nhận được thông báo như sau:
-![Thông Báo Chưa Kết Nối Internet](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/r8v7lgysqi1qqmepbnmc.jpg){: width="400px"}
+![Thông Báo Chưa Kết Nối Internet](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/r8v7lgysqi1qqmepbnmc.jpg){: width="400px" height="300px"}
 
 ### 2. Màn Hình Đăng Nhập
 Trang đăng nhập cho phép người dùng nhập tài khoản và mật khẩu để truy cập vào ứng dụng.
-![Login Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/njip09oa5ei5zn7dufct.jpg){: width="400px"}
+![Login Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/njip09oa5ei5zn7dufct.jpg){: width="400px" height="300px"}
 
 ### 3. Màn Hình Đăng Ký
 Trang đăng ký để người dùng tạo tài khoản mới với tên, email và mật khẩu.
-![Register Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/dpniz5sspacvvtkrvtb2.jpg){: width="400px"}
+![Register Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/dpniz5sspacvvtkrvtb2.jpg){: width="400px" height="300px"}
 
 ### 4. Trang Chủ
 Trang chủ hiển thị danh sách các video và các tùy chọn khác như xem video, tải video, và tương tác với người dùng khác.
-![Home Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/hdchni1coze8ghslpfql.jpg){: width="400px"}
+![Home Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/hdchni1coze8ghslpfql.jpg){: width="400px" height="300px"}
 
 ### 5. Trang Hồ Sơ
 Trang hồ sơ người dùng cho phép người dùng quản lý thông tin cá nhân và cập nhật ảnh đại diện.
-![Profile Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/jioiz4dytsrd5zpcs9t7.jpg){: width="400px"}
+![Profile Page](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/jioiz4dytsrd5zpcs9t7.jpg){: width="400px" height="300px"}
 
 ### 6. Xác Nhận Đăng Xuất
 Khi người dùng đăng xuất, hệ thống sẽ yêu cầu xác nhận để đảm bảo việc đăng xuất là cố ý.
-![Xác Nhận Đăng Xuất](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/aujestp4iz1wrkojjsfp.jpg){: width="400px"}
+![Xác Nhận Đăng Xuất](https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/aujestp4iz1wrkojjsfp.jpg){: width="400px" height="300px"}
 
 ### 7. Đăng Video, Xem Video, Tương Tác
 Người dùng có thể tải video lên, xem video và tương tác với video (thích, bình luận, chia sẻ, v.v.).
-![Tính Năng Video](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/nj9k1wtq95aslm18femz.jpg){: width="400px"}
+![Tính Năng Video](https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/nj9k1wtq95aslm18femz.jpg){: width="400px" height="300px"}
 
 ## Các Tính Năng Chính
 
