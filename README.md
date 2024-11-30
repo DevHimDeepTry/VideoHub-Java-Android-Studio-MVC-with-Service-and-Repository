@@ -1,6 +1,13 @@
 # VideoHub App
 
-VideoHub là một ứng dụng video cho phép người dùng đăng nhập, đăng ký tài khoản, xem video, tải lên video và quản lý thông tin cá nhân. App cũng hỗ trợ xác nhận đăng xuất và hiển thị thông báo khi không có kết nối internet.
+VideoHub là một ứng dụng có thể đăng tải, xem, và tương tác với các video. App không thể hoạt động khi không có kết nối internet. App sử dụng firebase để làm cở sở dữ liệu. App.
+
+## Các công nghệ sử dụng
+<div align="center">
+  <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732949576/VideoHubAndroidStudio/aez1etyu3ghhehm3xc4s.webp" width="50" height="50" alt="Android Studio"/>
+  <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732949866/VideoHubAndroidStudio/ftsg28vrzznw0jpqx54v.webp" width="50" height="50" alt="Firebase"/>
+  <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732949692/VideoHubAndroidStudio/wauaavblpdqnvwneypub.webp" width="50" height="50" alt="Cloudinary"/>
+</div>
 
 ## Hình Ảnh Mô Tả
 
@@ -13,15 +20,15 @@ Trang đăng nhập cho phép người dùng nhập tài khoản và mật khẩ
 <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/njip09oa5ei5zn7dufct.jpg" width="300" height="500"/>
 
 ### 3. Màn Hình Đăng Ký
-Trang đăng ký để người dùng tạo tài khoản mới với tên, email và mật khẩu.
+Trang đăng ký để người dùng tạo tài khoản mới, có upload avatar.
 <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/dpniz5sspacvvtkrvtb2.jpg" width="300" height="500"/>
 
 ### 4. Trang Chủ
-Trang chủ hiển thị danh sách các video và các tùy chọn khác như xem video, tải video, và tương tác với người dùng khác.
+Trang chủ, nơi người dùng có thể xem và tương tác với các video tương tự như TikTok.
 <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732947475/VideoHubAndroidStudio/hdchni1coze8ghslpfql.jpg" width="300" height="500"/>
 
 ### 5. Trang Hồ Sơ
-Trang hồ sơ người dùng cho phép người dùng quản lý thông tin cá nhân và cập nhật ảnh đại diện.
+Trang hồ sơ người dùng cho phép người dùng quản lý thông tin cá nhân, cập nhật ảnh đại diện, xem các video của mình, số lượng yêu thích, follow, like.
 <img src="https://res.cloudinary.com/duas1juqs/image/upload/v1732947476/VideoHubAndroidStudio/jioiz4dytsrd5zpcs9t7.jpg" width="300" height="500"/>
 
 ### 6. Xác Nhận Đăng Xuất
@@ -34,11 +41,11 @@ Người dùng có thể tải video lên, xem video và tương tác với vide
 
 ## Các Tính Năng Chính
 
-- **Đăng Nhập/Đăng Ký:** Cho phép người dùng đăng nhập và đăng ký tài khoản.
-- **Xem Video:** Người dùng có thể duyệt và xem các video từ các chủ đề khác nhau.
-- **Đăng Video:** Người dùng có thể tải lên video cá nhân của mình.
-- **Quản Lý Hồ Sơ:** Người dùng có thể chỉnh sửa thông tin cá nhân của mình trong phần hồ sơ.
-- **Tương Tác:** Người dùng có thể thích, bình luận và chia sẻ các video.
+- **Đăng Nhập/Đăng Ký:**
+- **Xem Video:** 
+- **Đăng Video:** 
+- **Quản Lý Hồ Sơ:** 
+- **Tương Tác:**
 
 ## Cài Đặt
 
